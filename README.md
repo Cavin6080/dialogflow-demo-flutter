@@ -30,5 +30,5 @@ You can fork this repo and add other state management libraries or add other Dia
 
 ## Authors
 
-- [@cavin](https://www.github.com/octokatherine)
+- [@cavin](https://github.com/Cavin6080)
 
